@@ -1,0 +1,58 @@
+HTML introduction:
+Hyper text markup langauge is used to define the structure/skeleton of web pages. it is not a programming language. After rapid growth of WWW in early 1990's, browsers starts implementing their own markup languages
+GML   --->   SGML   --->HTML
+W3C(world wide web consoritum) is an organization to take care of web languages
+HTML consists of tags. HTML is not case sensite. the current version html is html5. 
+html tags are represented as two ways
+   1. open tag : <tagname>    2. closed tag: </tagname>
+
+HTml code is embraced by html open and close tags. html consists of head and body. in head we will have title
+
+VS code provides shortcodes/readymade templates using emmets
+emmet to get template code:  !+enter  or html:5+enter
+
+How to give comments in HTML?
+comments are just instruction , it never
+ distube the code
+<!--       comment           -->
+
+
+First HTML:
+ <!DOCTYPE html> <!-- this line represents the following document is HTML -->
+<html lang="en">  <!-- html open tag with attribute lang having value "en"-->
+<head> <!-- head open tag-->
+    <meta charset="UTF-8"><!-- it represents UTF-8 charset will be used-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"><!-- width is set to device width-->
+    <title>my first site</title><!-- it appears at top tab -->
+</head><!-- head close-->
+<body><!-- body open-->
+    <!-- anything to show in website will be here -->
+</body><!-- body close -->
+</html><!-- html close -->
+
+
+
+
+Headings: There are 6 heading available in HTML ranging from h1 to h6 . all headings are differed by size and importance . h1 is higher and h6 is lower. all headings are bold
+It is recommanded to use one h1 per page 
+
+p: to write paragraphs we use p tag, to get dummy paragraph we use emmet lorem.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

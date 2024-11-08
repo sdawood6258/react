@@ -1,0 +1,87 @@
+Full stack UI with react
+--------------------------------
+purpose: website development
+
+course:
+topics: 
+part1: basic frontend (50 sessions)
+ui/ux design(figma),HTML,CSS,HTML5 & CSS3, SCSS,Bootstrap,JS,advanced JS,JQUERY(AJAX)
+Advanced frontend(40-50sessions)
+React(basic & advanced), libraries, redux and redux toolkit
+backend & DB (35-40 sessions)
+node js, express js, authentications,authorizations,
+sessions, mongodb
+Tools: vs code, git&githubs, API's, netlify, firebase, docker,kubernates, tailwind
+
+1. problem solving:
+   yes, full stack always have scope. even AI, cannot replace fullstack developers.
+  --- problem: we will get important mails to gmail such as interviews, meetings etc..,
+ --- solutions: priority notifications(classification based on keywords), calender reminder, alerts,popup, open mail easy trigger, notifications fixed, watsapp notofications,
+   --- website which you can login through gmail and make all features available
+
+probelm:do u have any solution to the probelm that people cannot watch movies/series alone in OTT?
+screen share, watch together, split the bills, two otps,chat,schudualing, reminders, 
+problem 2: In swiggy and Zomato, users spending 20 min average for deciding item to checkout. provide a solution to make users choose items within 5 mins. how?
+solutions: offers, distance filter, rating filter(items), price filter, groups, previous order recommandations, less food recommandations, based on time food category, more quality images, age wise food, giving food monthly wise like hotel
+
+top over app
+
+
+problem: people may suffer some health conditions for longer period of time and may consult multiple doctors ending up with multiple medicines due to lack of proper history storage for medical treatments
+  create a QR code and  update it with your diseas information so it can help to doctor know about your dieseas
+problem: how to decrease instagram reels time perday 50 scrolls
+  recommend something which makes him feel bored, disable app after an hour for that day,after 50 scrolls Instagram charge 2/- per day, increase the data usage more for each reel ..Increase the adds session after 50reels
+-------------------------------------------------------
+problem: so many teenagers/freshers lacks motivations/loses interests easily in coding after specific time
+ website/app/chrome extension that will automatically asks you to take breaks and shows some games at that time
+online community forums to take breaks and discuss regarding projects
+our app should tell them a notification for eye exerceise or tell them to strech body a bit and play some interactive ui things for brain refreshment
+invest new tool to generate code to reduce time.
+instead of time, take breaks based on checkpoints
+while coding if we got any gaps or errors some animations pop up through chrome extension showing error in a funny way 
+----------------------------------------------------------
+probelm: you want to travel somewhere but you are alone and u don't have any idea on that location/budgets
+location communities,location suggestions,near by,vlogs and blogs,budget calculator
+
+Basics of Internet:
+internet: network of networks
+WWW-- Tim Berners Lee
+How actually internet works?
+client-server model:
+  client request the server
+  server responds to the client
+every website also have protocol in URL
+https://www.google.com  ---> URL
+SSL -- secure socket layer
+
+what is the difference between Google,
+Google Chrome, Google.com?
+Google -- search engine -- it release crawlers to search all websites for specifc keywords then it will give ranking and show accordingly
+eg: duckduckgo,yahoo,bing,yandex, brave search, youtube search, baidu, naver, startpage
+google chrome: browser -- browse,dinosaur game, history,passwods,storage,pdf,movies,multi tasking
+Every browser will have their own browser engine eg: chrome- v8, firefox - spiderMonkey, edge-chakra
+google.com --- website -- collection of web pages 
+
+web development process:
+requirements
+design (UI/UX designer)
+code(frontend+backend+db)
+testing
+deploy
+maintain
+
+Design(UI & UX):
+UI:User Interface -- how it looks?what u see?
+   color
+   font
+   layout
+UX:User Experience  -- how it feels
+A website having nice colors, buttons and proper paddings and all
+
+Frontend: HTML -- structure, 
+CSS -- design/styling of web page
+JS -- functioning of web page
+code editor -- where we write,debug,run our code  --- vscode(extensions+huge community)
+goto code.studio.com ---> downloads  ---> windows download and install
+Enable auto save from file.
+

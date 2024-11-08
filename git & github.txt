@@ -1,0 +1,22 @@
+basic git &Github
+Git : Git is a distributed version control system. we need to download and install git
+  steps:
+-- Go to following link
+  https://git-scm.com/downloads --> windows --->64 bit
+
+  Install by agrreing and install
+
+1. go to terminal --> new terminal -->cmd
+git init
+git add .
+git commit -m "message"
+
+but for first time, git config --global user.email "emailid"
+git config --global user.name "name"
+
+git remote add origin 'link'
+git push -u main origin
+
+git pull origin main/master
+
+git clone 'path'

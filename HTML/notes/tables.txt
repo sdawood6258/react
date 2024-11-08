@@ -1,0 +1,20 @@
+tables are used to represent data in rows and columns
+eg: student data, result,annual reports,dashboard,menu,comparison model,
+
+tables in html uses table tag.
+each tables consists rows which are made up of 'tr' tag
+data in tables uses 'td' and 'th'
+
+/* create a table of courses with columns cid,cname,fee */
+  <table>
+   <tr>
+     <th>cid</th> <th>cname</th> <th>fee</th>
+   </tr>
+   <tr>
+     <td>121</td><td>HTML</td><td>1000</td>
+   </tr>
+  </table>
+
+  tables can be used for layouts
+
+  you can also combine rows using rowspan and columns using colspan

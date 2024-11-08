@@ -1,0 +1,7 @@
+Tag vs Element:
+A tag might be an open tag (<tagname>) or a closed tag
+(</tagname>)
+but element consists open,close tags along with its content
+<p>hello</p> ---> p element
+
+Block vs inline elements: some elements continue in the same line and some don't

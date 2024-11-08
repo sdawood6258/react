@@ -1,0 +1,18 @@
+Formatting Tags: Formatting Tags are used to format the text.
+b -- used to make the text bold
+strong -- used to make the text bold but seach engine understand these words as important.
+i -- used to make the text italic
+em -- used to make the text italic but search engine understand these words as stress emphasis
+u -- used to make the text underline
+strike -- used to make the text striked out
+del -- used to make the text strike out but search engines understand these words as deleted
+ins --appears as words got underline but search engine understand as inserted words
+sup -- used to make text as superscript
+sub -- used to make text as superscript
+code -- used to write the codes
+q -- used to make quotation
+kbd -- used to write keyboard shortcuts
+address -- used to note down the address
+br -- used to break the line
+hr -- used to bring horizontal line
+pre -- used to make text appears exactly how it t is written in code editor

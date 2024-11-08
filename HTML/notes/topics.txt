@@ -1,0 +1,8 @@
+HTML Introduction
+Formatting tags
+headings,p
+a,img
+lists
+tables
+media
+semantic,block vs inline
